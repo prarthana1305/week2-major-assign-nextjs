@@ -1,0 +1,85 @@
+{
+    "staff": [
+      {
+        "id": 1,
+        "name": "Watson Joyce",
+        "email": "watson.joyce@gmail.com",
+        "phone": "+1 (123) 123-4564",
+        "age": 45,
+        "salary": 22000,
+        "timings": "9am to 6pm",
+        "role": "Manager"
+      },
+      {
+        "id": 2,
+        "name": "Alice Smith",
+        "email": "alice.smith@gmail.com",
+        "phone": "+1 (123) 234-5678",
+        "age": 30,
+        "salary": 18000,
+        "timings": "10am to 7pm",
+        "role": "Developer"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@gmail.com",
+        "phone": "+1 (123) 345-6789",
+        "age": 38,
+        "salary": 25000,
+        "timings": "9am to 5pm",
+        "role": "Designer"
+      },
+      {
+        "id": 4,
+        "name": "Catherine Lee",
+        "email": "catherine.lee@gmail.com",
+        "phone": "+1 (123) 456-7890",
+        "age": 29,
+        "salary": 20000,
+        "timings": "11am to 8pm",
+        "role": "Tester"
+      },
+      {
+        "id": 5,
+        "name": "David Brown",
+        "email": "david.brown@gmail.com",
+        "phone": "+1 (123) 567-8901",
+        "age": 42,
+        "salary": 30000,
+        "timings": "9am to 6pm",
+        "role": "Project Manager"
+      },
+      {
+        "id": 6,
+        "name": "Eva Green",
+        "email": "eva.green@gmail.com",
+        "phone": "+1 (123) 678-9012",
+        "age": 35,
+        "salary": 22000,
+        "timings": "10am to 7pm",
+        "role": "Business Analyst"
+      },
+      {
+        "id": 7,
+        "name": "Frank White",
+        "email": "frank.white@gmail.com",
+        "phone": "+1 (123) 789-0123",
+        "age": 50,
+        "salary": 27000,
+        "timings": "9am to 5pm",
+        "role": "HR Manager"
+      },
+      {
+        "id": 8,
+        "name": "Grace Black",
+        "email": "grace.black@gmail.com",
+        "phone": "+1 (123) 890-1234",
+        "age": 28,
+        "salary": 19000,
+        "timings": "11am to 8pm",
+        "role": "Marketing Specialist"
+      }
+    ]
+  }
+  
